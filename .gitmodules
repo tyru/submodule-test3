@@ -1,0 +1,4 @@
+[submodule "nosuchpath"]
+	path = nosuchpath
+	url = https://github.com/tyru/submodule-test2.git
+	branch = master
